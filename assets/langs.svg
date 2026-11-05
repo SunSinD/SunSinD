@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Languages">
+  <rect width="160" height="160" rx="12" fill="#0d1117" stroke="#21262d"/>
+  <g fill="none" stroke-width="18" stroke-linecap="butt" transform="rotate(-90 80 80)">
+    <circle cx="80" cy="80" r="60" stroke="#ffefaf" stroke-dasharray="150.61 377" stroke-dashoffset="0"/>
+    <circle cx="80" cy="80" r="60" stroke="#a97bff" stroke-dasharray="88.70 377" stroke-dashoffset="-152.61"/>
+    <circle cx="80" cy="80" r="60" stroke="#f34b7d" stroke-dasharray="70.38 377" stroke-dashoffset="-243.31"/>
+    <circle cx="80" cy="80" r="60" stroke="#f1e05a" stroke-dasharray="27.22 377" stroke-dashoffset="-315.69"/>
+    <circle cx="80" cy="80" r="60" stroke="#555555" stroke-dasharray="14.96 377" stroke-dashoffset="-344.91"/>
+    <circle cx="80" cy="80" r="60" stroke="#7e7eff" stroke-dasharray="13.12 377" stroke-dashoffset="-361.87"/>
+  </g>
+  <circle cx="80" cy="80" r="50" fill="#0d1117"/>
+</svg>
