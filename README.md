@@ -1,14 +1,5 @@
 <p align="center">
-  <a href="#readme"><img src="assets/langs.svg" width="160" height="160" alt="Languages"></a>
-</p>
-
-<p align="center">
-  <a href="#readme"><img src="assets/dot-holyc.svg" width="12" height="12" alt="HolyC" title="HolyC"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#readme"><img src="assets/dot-kotlin.svg" width="12" height="12" alt="Kotlin" title="Kotlin"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#readme"><img src="assets/dot-cpp.svg" width="12" height="12" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#readme"><img src="assets/dot-javascript.svg" width="12" height="12" alt="JavaScript" title="JavaScript"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#readme"><img src="assets/dot-c.svg" width="12" height="12" alt="C" title="C"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#readme"><img src="assets/dot-nix.svg" width="12" height="12" alt="Nix" title="Nix"></a>
+  <a href="#readme"><img src="assets/langs.svg" width="420" alt="Languages: HolyC 40.48%, Kotlin 24.06%, C++ 19.20%, JavaScript 7.75%, C 4.50%, Nix 4.01%"></a>
 </p>
 
 <p align="center">
