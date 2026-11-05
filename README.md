@@ -1,5 +1,14 @@
 <p align="center">
-  <a href="#readme"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=SunSinD&layout=donut&langs_count=6&custom_title=Language%20Mix&card_width=360&bg_color=0d1117&border_color=21262d&title_color=8b949e&text_color=8b949e&border_radius=8" alt="Language Mix" width="340"></a>
+  <a href="#readme"><img src="assets/langs.svg" width="160" height="160" alt="Languages"></a>
+</p>
+
+<p align="center">
+  <a href="#readme"><img src="assets/dot-holyc.svg" width="12" height="12" alt="HolyC" title="HolyC"></a>&nbsp;&nbsp;&nbsp;
+  <a href="#readme"><img src="assets/dot-kotlin.svg" width="12" height="12" alt="Kotlin" title="Kotlin"></a>&nbsp;&nbsp;&nbsp;
+  <a href="#readme"><img src="assets/dot-cpp.svg" width="12" height="12" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;
+  <a href="#readme"><img src="assets/dot-javascript.svg" width="12" height="12" alt="JavaScript" title="JavaScript"></a>&nbsp;&nbsp;&nbsp;
+  <a href="#readme"><img src="assets/dot-c.svg" width="12" height="12" alt="C" title="C"></a>&nbsp;&nbsp;&nbsp;
+  <a href="#readme"><img src="assets/dot-nix.svg" width="12" height="12" alt="Nix" title="Nix"></a>
 </p>
 
 <p align="center">
