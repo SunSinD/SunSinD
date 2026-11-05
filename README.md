@@ -1,22 +1,15 @@
-<div align="center">
-  <h1>Sunpreet Singh</h1>
-  <p><strong>Electrical engineering technology student building practical tools across Linux, mobile, and embedded systems.</strong></p>
-  <p><a href="https://github.com/SunSinD/Sunlith">Sunlith</a> · <a href="https://github.com/SunSinD/Relic-OS">Relic OS</a> · <a href="https://github.com/SunSinD/Projet-DO2-NixOS">DO2 NixOS</a></p>
-</div>
+# Sunpreet Singh
 
-## What I’m working on
+Electrical engineering technology student at [Collège Montmorency](https://www.cmontmorency.qc.ca/) in Laval, Québec. I like projects where software meets real hardware, from an LED matrix on an Arduino to a full operating system.
 
-- **[Sunlith](https://github.com/SunSinD/Sunlith)** — a focused Android calendar for events, reminders, widgets, and computer handoff.
-- **[Relic OS](https://github.com/SunSinD/Relic-OS)** — a TempleOS-inspired desktop with everyday apps and games.
-- **[NixOS Config](https://github.com/SunSinD/NixOS-Config)** — a reproducible desktop setup built around Nix flakes.
-- **[Projet DO2](https://github.com/SunSinD/Projet-DO2-NixOS)** — giving refurbished computers a useful second life with NixOS.
+## Projects
 
-## Tools I use
+- [**Sunlith**](https://github.com/SunSinD/Sunlith): a clean Android calendar with month, week and day views, reminders, a home screen widget and .ics import. English and French.
+- [**Relic OS**](https://github.com/SunSinD/Relic-OS): a fork of TempleOS with a dark desktop, a Start menu, everyday apps and 28 games, including DOOM. A tribute to Terry A. Davis.
+- [**NixOS-Config**](https://github.com/SunSinD/NixOS-Config): my desktop setup with niri and Noctalia, managed as a flake with Home Manager. One config for my PC, a VM or any laptop.
+- [**Projet DO2**](https://github.com/SunSinD/Projet-DO2-NixOS): a custom NixOS image and install scripts that give refurbished college laptops a second life.
+- [**Arduino matrix projects**](https://github.com/SunSinD/Proj1-MicroC2-Sess3): a test tool for an LED matrix interface and a [game](https://github.com/SunSinD/Proj2-MicroC2-Sess3) built on it, in C++.
 
-`NixOS` · `Linux` · `Kotlin` · `Jetpack Compose` · `C++` · `Arduino` · `HolyC` · `TypeScript`
+## Tools
 
-## About
-
-I’m studying electrical engineering technology at [Collège Montmorency](https://www.cmontmorency.qc.ca/) in Laval, Québec. I like projects that connect software with real devices, from an embedded display to a complete operating system.
-
-[Explore my repositories →](https://github.com/SunSinD?tab=repositories)
+NixOS · Linux · Kotlin · Jetpack Compose · C++ · Arduino · HolyC
